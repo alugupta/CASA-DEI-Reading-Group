@@ -18,3 +18,9 @@
 8. How important is it to you to interact with role models that are representative of your background? Do you feel this is important to you personally, or does it not matter?
 
 ## Notes
+1. https://link.springer.com/article/10.1007/s11199-013-0296-x
+2. https://www.sigarch.org/what-happens-to-us-does-not-happen-to-most-of-you/
+3. Harvard’s Implicit Bias test: https://implicit.harvard.edu/implicit/takeatest.html 
+4. IEEE-USA publishes a series of books/booklets about women in EECS that you can download as free PDFs, if you are an IEEE member (not necessarily with IEEE Computer Society, IEEE's TCCA, or TCuArch).
+5. https://www.youtube.com/watch?v=7L7NRONADJ4
+6. https://www.youtube.com/watch?v=X3-hOigoxHs 
