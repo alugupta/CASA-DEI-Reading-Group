@@ -28,13 +28,13 @@ Central to this reading group is enabling anyone interested in joining the readi
 
 ## Sessions
 
-- Session 1: "A Rising Tide of Hate and Violence against Asian Americans in New York During COVID-19: Impact, Causes, Solutions" by The Asian American Bar Association of New York
-- Session 2: "Stuck in the Shallow End by Jane Margolis" 
-- Session 3: "The Stereotypical Computer Scientist: Gendered Media Representations as a Barrier to Inclusion for Women" by Cheryan et al.
-- Session 4: "The Privileged Poor" by Anthony Abraham Jack
-- Session 5: "The Imperial Code, Or, What if I Told You It’s the Colonial Matrix of Power?" by Matthew Kiem
-- Session 6: "A Feature, Not A Bug" by Mar Hicks
-- Session 7: "On Being Included: Racism and Diversity in Institutional Life" by Sarah Ahmed 
+- [Session 1](https://github.com/alugupta/CASA-DEI-Reading-Group/blob/main/session-1.md): "A Rising Tide of Hate and Violence against Asian Americans in New York During COVID-19: Impact, Causes, Solutions" by The Asian American Bar Association of New York
+- [Session 2](https://github.com/alugupta/CASA-DEI-Reading-Group/blob/main/session-2.md): "Stuck in the Shallow End by Jane Margolis"
+- [Session 3](https://github.com/alugupta/CASA-DEI-Reading-Group/blob/main/session-3.md): "The Stereotypical Computer Scientist: Gendered Media Representations as a Barrier to Inclusion for Women" by Cheryan et al.
+- [Session 4](https://github.com/alugupta/CASA-DEI-Reading-Group/blob/main/session-4.md): "The Privileged Poor" by Anthony Abraham Jack
+- [Session 5](https://github.com/alugupta/CASA-DEI-Reading-Group/blob/main/session-5.md): "The Imperial Code, Or, What if I Told You It’s the Colonial Matrix of Power?" by Matthew Kiem]
+- [Session 6](https://github.com/alugupta/CASA-DEI-Reading-Group/blob/main/session-6.md): "A Feature, Not A Bug" by Mar Hicks
+- [Session 7](https://github.com/alugupta/CASA-DEI-Reading-Group/blob/main/session-7.md:) "On Being Included: Racism and Diversity in Institutional Life" by Sarah Ahmed
 
 ## Contact Us
 
